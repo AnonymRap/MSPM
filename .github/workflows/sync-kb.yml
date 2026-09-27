@@ -1,7 +1,5 @@
 name: Sync Knowledge Base
 
-# Otomatis jalan tiap ada commit yang mengubah folder docs/.
-# Bisa juga dijalankan manual lewat tab "Actions" di GitHub (tombol "Run workflow").
 on:
   push:
     branches: [main]
